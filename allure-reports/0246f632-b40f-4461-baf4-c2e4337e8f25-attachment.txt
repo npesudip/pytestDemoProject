@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_ninjaTrails.py:40 ************* test_002_merchant_wealth **********

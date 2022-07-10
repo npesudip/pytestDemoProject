@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_ninjaTrails.py:68 ************* test_003_check_answers **********
