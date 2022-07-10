@@ -11,7 +11,7 @@ def setup(browser):
         driver = webdriver.Firefox()
         print("Launching firefox browser.........")
     else:
-        driver = webdriver.Chrome(executable_path=r"C:\projects\veriskSudip\chromedriver.exe")
+        driver = webdriver.Chrome(executable_path=r"..\chromedriver.exe")
     return driver
 
 
